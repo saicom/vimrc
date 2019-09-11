@@ -12,6 +12,10 @@ filetype on
 " autoload .vimrc
 "autocmd! bufwritepost $HOME/.vimrc source %
 
+set fileencodings=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936
+set termencoding=utf-8
+set encoding=utf-8
+
 "设置搜索高亮配色  :hi查询颜色代码
 set nobackup
 set hlsearch
