@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/liuzj/ink-sanguo-server-new'
+let g:netrw_dirhist_2='/home/liuzj/ink-sanguo-server-new/online'
+let g:netrw_dirhist_3='/home/liuzj/ink-sanguo-server-new/online/src'
+let g:netrw_dirhist_4='/home/liuzj/ink-sanguo-server-new/online/src/user'
+let g:netrw_dirhist_5='/home/liuzj/ink-sanguo-server-new/online/src'
+let g:netrw_dirhist_6='/home/liuzj/ink-sanguo-server-new/online/src/user'
+let g:netrw_dirhist_7='/home/liuzj/ink-sanguo-server-new/online/src'
+let g:netrw_dirhist_8='/home/liuzj/ink-sanguo-server-new/online/src/utility'
